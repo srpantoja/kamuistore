@@ -5,28 +5,12 @@ You can use the [editor on GitHub](https://github.com/srpantoja/kamuistore/edit/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+[Placas Decorativas](https://photos.app.goo.gl/Gi32dRN4cnqhdh8J6){: .btn }\
+[Colecionáveis](https://photos.app.goo.gl/jDFEK4caRBoUcgDT8){: .btn }\
+[Queima de Estoque](https://photos.app.goo.gl/73UdGZGRmYyWrfHf7){: .btn }\
+[Copos Bucks](https://photos.app.goo.gl/EJqKa1Hihgvp3W9m9){: .btn }\
+[Pelúcias](https://photos.app.goo.gl/YQ5rSgRu4oiJqNAk8){: .btn }\
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
