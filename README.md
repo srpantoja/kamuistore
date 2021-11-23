@@ -5,3 +5,5 @@
 <button name="button" onclick="https://photos.app.goo.gl/EJqKa1Hihgvp3W9m9">Copos Bucks</button>
 <button name="button" onclick="https://photos.app.goo.gl/YQ5rSgRu4oiJqNAk8">Pelúcias</button>
 
+[Click me](http://www.google.com){: .btn}
+
